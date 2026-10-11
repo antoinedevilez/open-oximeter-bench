@@ -30,7 +30,7 @@ The bench is a tool to compare oximeters with each other. It does not replace cl
 ## Roadmap
 
 - [x] Repository set up
-- [ ] Python model of the expected bias
+- [x] Python model of the expected bias
 - [ ] CAD of the finger, mould, pulse mechanism and enclosure
 - [ ] Electronics and firmware
 - [ ] Automatic reading of the oximeter screen
