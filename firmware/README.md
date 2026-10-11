@@ -1,2 +1,2 @@
 # Firmware
-Schematics and PCB (microcontroller, stepper driver, PPG sensor).
+Microcontroller code: pulse waveform generation and PPG recording.
